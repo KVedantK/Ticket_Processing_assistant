@@ -7,6 +7,8 @@ It performs three main tasks:
 2. Semantic Recurrence Detection
 3. Human-readable Ticket Summarization
 
+The file `Unisure_solution.pdf` contains the detailed report as required
+
 ---
 
 ## Features
